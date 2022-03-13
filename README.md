@@ -1,6 +1,10 @@
 text-encoding
 ==============
 
+**Modified with GB18030 only.**
+
+---
+
 This is a polyfill for the [Encoding Living
 Standard](https://encoding.spec.whatwg.org/) API for the Web, allowing
 encoding and decoding of textual data to and from Typed Array buffers
